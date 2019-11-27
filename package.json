@@ -3,7 +3,6 @@
   "version": "1.4.0",
   "description": "Material Kit React Native. Coded by Creative Tim",
   "main": "node_modules/expo/AppEntry.js",
-  "private": true,
   "scripts": {
     "start": "cross-env REACT_EDITOR=code expo start",
     "android": "cross-env REACT_EDITOR=code expo start --android",
